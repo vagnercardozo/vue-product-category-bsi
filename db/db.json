@@ -1,12 +1,8 @@
 {
   "category": [
     {
-      "id": 1,
-      "description": "Terror"
-    },
-    {
       "id": 2,
-      "description": "Comédia"
+      "description": "213123"
     },
     {
       "id": 3,
@@ -23,13 +19,28 @@
     {
       "description": "SciFi",
       "id": 12
+    },
+    {
+      "description": "reqw4123q3g",
+      "id": 13
     }
   ],
   "products": [
     {
       "id": 1,
+      "description": "",
       "name": "Top Gun",
-      "categoryId": 3
+      "categoryId": "5"
+    },
+    {
+      "name": "Homens e Homens na Selva",
+      "categoryId": "5",
+      "id": 2
+    },
+    {
+      "name": "Teste",
+      "categoryId": "7",
+      "id": 3
     }
   ]
 }
